@@ -1,1 +1,9 @@
 Test file for pull request
+comments in Javascript
+// a one line comment
+ 
+/* this is a longer, 
+   multi-line comment
+ */
+ 
+/* You can't, however, /* nest comments */ SyntaxError */
